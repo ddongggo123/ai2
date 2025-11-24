@@ -74,10 +74,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-    labels[0] : {"texts" : ["중국식 냉면 먹고싶다"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.unileverfoodsolutions.co.kr%2Frecipe%2F%25EC%25A4%2591%25EA%25B5%25AD-%25EB%2583%2589%25EB%25A9%25B4-R9008730.html&psig=AOvVaw2QRvFUmBwSvfBns6uIq_gO&ust=1764029172845000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODXifC-iZEDFQAAAAAdAAAAABAE"]},
-    labels[1] : {"texts" : ["짜장면이 먹고싶어요"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EC%25A7%259C%25EC%259E%25A5%25EB%25A9%25B4&psig=AOvVaw0RhoUQhC0wZugDI-hHZLfJ&ust=1764029370142000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDw0c2_iZEDFQAAAAAdAAAAABAE"]},
-    labels[2] : {"texts" : ["짬뽕은 맛있어요"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwooltariusa.com%2Fproducts%2Fhongya-fried-rice-spicy-seafood-soup%3Fsrsltid%3DAfmBOoqKKUd3xQppZeGbEocVYOsRhLC45ALG5y2zbn3S87cLq7Vh1gYX&psig=AOvVaw0LoV9bDPSSy-NSdG11T29Z&ust=1764029409968000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKj_j-S_iZEDFQAAAAAdAAAAABAE"]},
-    labels[3] : {"texts" : ["탕수육이 맛있어요"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.10000recipe.com%2Frecipe%2F6935781%3Fsrsltid%3DAfmBOooHkPlOzRpdZWAXLVBKw-5N458ThhYRL7-nptTr8jU4SBFh9YlI&psig=AOvVaw1uBOta-yRlwOGyBII2OtYV&ust=1764029531374000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCNzpvAiZEDFQAAAAAdAAAAABAj"]},
+    labels[0] : {"texts" : ["중국식 냉면 먹고싶다"], "images" : ["https://www.unileverfoodsolutions.co.kr/dam/global-ufs/mcos/south-korea/calcmenu/recipes/kr-recipes/chinese/header/%EC%A4%91%EA%B5%AD%EB%83%89%EB%A9%B4-chinese-cold-noodles-header-1260x709px.jpg"]},
+    labels[1] : {"texts" : ["짜장면이 먹고싶어요"], "images" : ["https://i.namu.wiki/i/j2AxLP9AtrcJebh4DVfGxowfXwI3a95dG_YZb_Ktczc6Ca7ACyd_NJL3YHQMw8SABGTQiJDwSpySOSSBLZVEZw.webp"]},
+    labels[2] : {"texts" : ["짬뽕은 맛있어요"], "images" : ["https://i.namu.wiki/i/upNZ7cYsFsAfU0KcguO6OHMK68xC-Bj8EXxdCti61Jhjx10UCBgdK5bZCEx41-aAWcjWZ5JMKFUSaUGLC1tqWg.webp"]},
+    labels[3] : {"texts" : ["탕수육이 맛있어요"], "images" : ["https://recipe1.ezmember.co.kr/cache/recipe/2020/07/05/2e0e7c019f283bcc36d34cdee876d15b1.jpg"]},
     }
 # ======================
 # 유틸
